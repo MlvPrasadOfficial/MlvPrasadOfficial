@@ -1,4 +1,4 @@
-### Hi there fellow Data Science and A.I Indian enthusiast.👋
+### Hi,there fellow Data Science and A.I Indian enthusiast.👋
 - 🔭 I’m currently working on ...Data Engineering and Data Science in Cyient Banaglore.
 - 🌱 I’m currently learning ...Scaler Dsml Mar 2022 Course.
 - 👯 I’m looking to collaborate on ...Similar Goal oriented mindsets.

@@ -1,10 +1,4 @@
-### Hi there 👋
-
-
-MlvPrasadOfficial/MlvPrasadOfficial is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there fellow data science and ai indian enthusiast.👋
 - 🔭 I’m currently working on ...data engineering and data science in cyient banaglore.
 - 🌱 I’m currently learning ...scaler dsml course
 - 👯 I’m looking to collaborate on ...similar scaler students

@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with .. cracking MAANG in 2023.
 - 💬 Ask me about ...Scaler Dsml course discussion doubts and share knowledge.
 - 📫 How to reach me: ...Feel free to  Dm me on Whatsapp : +91 7680896860
-- ⚡ Fun fact: ... born in oldest cultural land = INDIA.
+- 
 

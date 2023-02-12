@@ -1,6 +1,6 @@
-☑️ Hi, I am MLV Prasad
+☑️ Hi, I am MLV Prasad 
 
-💫 I am Deep-Learning(Cv and Nlp) Enthusiast
+💫 I am a Deep-Learning (Cv and Nlp) Enthusiast
 
 ⭐ Mentor - Data Science & Analytics @codinginvaders | Ex-Data Engineer @cyient
 
@@ -8,6 +8,6 @@
 
 🤝 Ready to connect with Deep Learning Enthusiasts 
 
-📞 + 91 - 7680896860 | whatsapp 
+📞 + 91 - 7680896860 | whatsapp | Bangalore . India
 
 📩 mlvprasadofficial@gmail.com

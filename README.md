@@ -18,6 +18,6 @@
 
 | S.NO | Name  | Link |
 |----------|----------|----------|
-| 1 | Portfoilio | mlvprasadofficial.com/cv |
-| 2 | youtube leetcode sql |Lleetcode Sql By MLV Prasad ](https://www.youtube.com/channel/UCSikPPf1TKQuemjF8tI3buQ) |
+| 1 | Portfolio SIte | [mlvprasadofficial.com/cv](https://www.mlvprasadofficial.com/cv) |
+| 2 | YouTube SQL |Leetcode Sql By MLV Prasad](https://www.youtube.com/channel/UCSikPPf1TKQuemjF8tI3buQ) |
 

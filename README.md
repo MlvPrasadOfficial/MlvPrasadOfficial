@@ -14,8 +14,8 @@
 
 📩 mlvprasadofficial@gmail.com
 
-| Column 1 | Column 2 | Column 3 |
+| S.NO | Name  | Link |
 |----------|----------|----------|
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+| 1 | Portfoilio | mlvprasadofficial.com/cv |
+| 2 | youtube leetcode sql |Lleetcode Sql By MLV Prasad ](https://www.youtube.com/channel/UCSikPPf1TKQuemjF8tI3buQ) |
 

@@ -1,5 +1,7 @@
 ☑️ Hi, I am MLV Prasad 
 
+🥇 M.Sc Computer Science in Artificial Intelligence and Machine Learning | @Woolf University
+
 💫 I am a Deep-Learning (Cv and Nlp) Enthusiast
 
 ⭐ Mentor - Data Science & Analytics @codinginvaders | Ex-Data Engineer @cyient

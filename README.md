@@ -1,8 +1,8 @@
-☑️ Hi, I am MLV Prasad 
+☑️ Hi, I am **MLV Prasad** .
 
-🥇 M.Sc Computer Science in Artificial Intelligence and Machine Learning | @Woolf University
+🥇 M.Sc Computer Science in **Artificial Intelligence and Machine Learning** | @Woolf University
 
-💫 I am a Deep-Learning (Cv and Nlp) Enthusiast
+💫 I am a **Deep-Learning** (**CV and NLP**) Enthusiast
 
 ⭐ Mentor - Data Science & Analytics @codinginvaders | Ex-Data Engineer @cyient
 
@@ -12,7 +12,9 @@
 
 📞 + 91 - 7680896860 | whatsapp | Bangalore . India
 
-📩 mlvprasadofficial@gmail.com
+📩  mlvprasadofficial@gmail.com
+
+ ---
 
 | S.NO | Name  | Link |
 |----------|----------|----------|

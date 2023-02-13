@@ -1,4 +1,4 @@
-☑️ Hi, I am **MLV Prasad** .
+☑️ Hi, I am [**MLV Prasad**](https://www.linkedin.com/in/mlvprasadofficial/).
 
 🥇 M.Sc Computer Science in **Artificial Intelligence and Machine Learning** | @Woolf University
 

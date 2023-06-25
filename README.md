@@ -22,4 +22,4 @@
 | 2 | Youtube | [LeetCode SQL](https://www.youtube.com/@leetcodesqlsolutions_mlvprasad/playlists) | 
 | 3 | Kaggle  | [@mlvprasad](https://www.kaggle.com/mlvprasad) | 
 
-* All the projects in the repositories will be updated by aug 1 2023
+* All the projects are in the final process and will be added to  repositories by july end 2023

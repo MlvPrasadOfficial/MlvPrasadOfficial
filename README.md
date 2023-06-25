@@ -19,6 +19,6 @@
 | S.NO | Name  | Link | 
 |----------|----------|----------|
 | 1 | Portfolio SIte | will be updated on Aug 2023 | 
-| 1 | Youtube | [Link](https://www.youtube.com/@leetcodesqlsolutions_mlvprasad/playlists) | 
+| 1 | Youtube | [LeetCOde SQL](https://www.youtube.com/@leetcodesqlsolutions_mlvprasad/playlists) | 
 | 1 | Kaggle  | [@mlvprasad](https://www.kaggle.com/mlvprasad) | 
 

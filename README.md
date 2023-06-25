@@ -19,6 +19,7 @@
 | S.NO | Name  | Link | 
 |----------|----------|----------|
 | 1 | Portfolio SIte | will be updated on Aug 2023 | 
-| 1 | Youtube | [LeetCode SQL](https://www.youtube.com/@leetcodesqlsolutions_mlvprasad/playlists) | 
-| 1 | Kaggle  | [@mlvprasad](https://www.kaggle.com/mlvprasad) | 
+| 2 | Youtube | [LeetCode SQL](https://www.youtube.com/@leetcodesqlsolutions_mlvprasad/playlists) | 
+| 3 | Kaggle  | [@mlvprasad](https://www.kaggle.com/mlvprasad) | 
 
+* All the projects in the repositories will be updated by aug 1 2023

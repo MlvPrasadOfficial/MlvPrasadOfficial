@@ -1,6 +1,6 @@
 ☑️ Hi, I am [**MLV Prasad**](https://www.linkedin.com/in/mlvprasadofficial/).
 
-🥇 M.Sc Computer Science in **Artificial Intelligence and Machine Learning** | @Woolf University
+🥇 M.Sc Computer Science in **Artificial Intelligence and Machine Learning** | @Woolf University 2022-24
 
 💫 I am a **Deep-Learning** (**CV and NLP**) Enthusiast
 

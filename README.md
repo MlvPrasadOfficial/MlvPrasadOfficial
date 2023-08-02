@@ -22,4 +22,4 @@
 | 2 | Youtube | [LeetCode SQL](https://www.youtube.com/@leetcode_mlvprasad) | 
 | 3 | Kaggle  | [@mlvprasad](https://www.kaggle.com/mlvprasad) | 
 
-* All the projects are in the final process and will be added to  repositories by july end 2023
+* All the projects are in the final process and will be added to  repositories by Aug end 2023

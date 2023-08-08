@@ -16,7 +16,6 @@
 
 📩  mlvprasadofficial@gmail.com
 
-![Profile views](https://gpvc.arturio.dev/[MlvPrasadOfficial])
 
  ---
 

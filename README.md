@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+MLV+PRASAD)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F725&multiline=true&width=435&lines=This+is+MLV+PRASAD;Mentor+-+Data+Science+and+Analytics;Kaggle+Expert)](https://git.io/typing-svg)
 
 ☑️ Hi, I am [**MLV Prasad**](https://www.linkedin.com/in/mlvprasadofficial/).
 

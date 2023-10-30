@@ -6,7 +6,7 @@
 
 💫 I am a **Deep-Learning** (**CV and NLP**) Enthusiast
 
-⭐ Mentor - Data Science & Analytics @codinginvaders | Ex-Data Engineer @cyient
+⭐ Mentor - Data Science & Analytics @codinginvaders | Ex-Data Analyst Engineer @cyient
 
 ✌️ Creating Data Science Content on Youtube and sharing my knowledge
 

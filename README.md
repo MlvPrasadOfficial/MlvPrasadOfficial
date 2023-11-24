@@ -30,9 +30,8 @@
 
 
 
-https://github.com/MlvPrasadOfficial/MlvPrasadOfficial/edit/master/README.md
-
-[![MlvPrasadOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=MlvPrasadOfficial)](https://github.com/MlvPrasadOfficial/github-readme-stats)
 
 
-![MlvPrasadOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=MlvPrasadOfficial&show_icons=true&theme=radical))
+
+
+![MlvPrasadOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=MlvPrasadOfficial&show_icons=true&theme=radical)

@@ -22,7 +22,7 @@
 | S.NO | Name  | Link | 
 |----------|----------|----------|
 | 1 | Portfolio SIte | [mlvprasadofficial.com](www.mlvprasadofficial.com) | 
-| 2 | Youtube | [LeetCode Data Science With MLV Prasad](https://www.youtube.com/@leetcode_mlvprasad)  1k subscribers | 
+| 2 | Youtube | [LeetCode Data Science With MLV Prasad](https://www.youtube.com/channel/UCSikPPf1TKQuemjF8tI3buQ)  1k subscribers | 
 | 3 | Kaggle  | [@mlvprasad](https://www.kaggle.com/mlvprasad) | 
 
 

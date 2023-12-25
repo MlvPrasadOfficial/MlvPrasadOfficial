@@ -21,11 +21,11 @@
 
 | S.NO | Name  | Link | 
 |----------|----------|----------|
-| 1 | Portfolio SIte | will be updated on Aug 2023 | 
-| 2 | Youtube | [LeetCode Data Science With MLV Prasad](https://www.youtube.com/@leetcode_mlvprasad) | 
+| 1 | Portfolio SIte | [mlvprasadofficial.com](www.mlvprasadofficial.com) | 
+| 2 | Youtube | [LeetCode Data Science With MLV Prasad](https://www.youtube.com/@leetcode_mlvprasad)  1k subscribers | 
 | 3 | Kaggle  | [@mlvprasad](https://www.kaggle.com/mlvprasad) | 
 
-* All the projects are in the final process and will be added to  repositories by Aug end 2023
+
 
 
 

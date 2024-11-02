@@ -3,6 +3,7 @@
 
 
 ☑️ Hi, I am [**MLV Prasad**](https://www.linkedin.com/in/mlvprasadofficial/).
+
 ⭐ Mentor - Data Science @SCALER | Data Scentist - LLM @ Turing | (Ex- DS @codinginvaders , @cyient)
 🥇 M.Sc Computer Science in **Artificial Intelligence and Machine Learning** | @Woolf University 
 💫 I am a **Deep-Learning** (**CV and NLP**) and GEN-AI Enthusiast.

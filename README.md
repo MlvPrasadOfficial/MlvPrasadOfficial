@@ -4,7 +4,7 @@
 
 ☑️ Hi, I am [**MLV Prasad**](https://www.linkedin.com/in/mlvprasadofficial/).
 
-⭐ Mentor - Data Science @SCALER | Data Scentist - LLM @ Turing | (Ex- DS @codinginvaders , @cyient)
+⭐ Mentor - Data Science @SCALER, @ANALYTICS_SIKHSHA| Data Scentist - LLM @ Turing | (Ex- DS @codinginvaders , @cyient)
 
 🥇 M.Sc Computer Science in **Artificial Intelligence and Machine Learning** | @Woolf University 
 

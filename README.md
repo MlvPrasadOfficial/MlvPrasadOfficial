@@ -24,7 +24,7 @@
 | S.NO | Name  | Link | stats |
 |----------|----------|----------|----|
 | 1 | Portfolio SIte | [mlvprasadofficial.com](www.mlvprasadofficial.com) | 100 newsletter subscribers |
-| 2 | Youtube | [LeetCode Data Science With MLV Prasad](https://www.youtube.com/channel/UCSikPPf1TKQuemjF8tI3buQ)  | 1600 subscribers | 
+| 2 | Youtube |  |  | 
 | 3 | Kaggle  | [@mlvprasad](https://www.kaggle.com/mlvprasad) |  7 silver 13 bronze notebooks | 
 
 

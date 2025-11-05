@@ -1,36 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F725&multiline=true&width=700&height=100&lines=This+is+MLV+PRASAD;Mentor+-+Data+Science+and+Analytics;Kaggle+Expert+%7C+M.sc+Computer+Science+(A.I+and+M.L))]](https://readme-typing-svg.demolab.com/demo/?duration=2500&pause=30&color=1BF75C&background=FFFFFF00&multiline=true&width=800&height=100&lines=Hi%2C+This+is+MLV+Prasad;Sr.Data+Scientist+%40HDFCLife%2C+Ex-Turing%2C+Cyient%2CCoding+Invaders;Mentor+%40Scaler%2C+%40analyticsShiksha)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=30&color=1BF75C&background=FFFFFF00&multiline=true&width=800&height=100&lines=Hi%2C+This+is+MLV+Prasad;Sr.Data+Scientist+%40HDFCLife%2C+Ex-Turing%2C+Cyient%2CCoding+Invaders;Mentor+%40Scaler%2C+%40analyticsShiksha)](https://git.io/typing-svg)
 
 ☑️ Hi, I am [**MLV Prasad**](https://www.linkedin.com/in/mlvprasadofficial/).
+
+⭐ Sr. Data Scientist - GEN-AI @HDFC
 
 ⭐ Mentor - Data Science @SCALER, @ANALYTICS_SIKHSHA| Data Scentist - LLM @ Turing | (Ex- DS @codinginvaders , @cyient)
 
 🥇 M.Sc Computer Science in **Artificial Intelligence and Machine Learning** | @Woolf University 
-
-💫 I am a **Deep-Learning** (**CV and NLP**) and GEN-AI Enthusiast.
-
-✌️ Creating Data Science Content on Youtube and sharing my knowledge
 
 🤝 Ready to connect with Deep Learning Enthusiasts 
 
 📞 + 91 - 7680896860 | whatsapp | Bangalore . India
 
 📩  mlvprasadofficial@gmail.com
-
-
- ---
-
-| S.NO | Name  | Link | stats |
-|----------|----------|----------|----|
-| 1 | Portfolio SIte | [mlvprasadofficial.com](www.mlvprasadofficial.com) | 100 newsletter subscribers |
-| 2 | Youtube |  |  | 
-| 3 | Kaggle  | [@mlvprasad](https://www.kaggle.com/mlvprasad) |  7 silver 13 bronze notebooks | 
-
-
-
-
-
 
 
 

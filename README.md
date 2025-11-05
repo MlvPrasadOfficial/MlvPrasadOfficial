@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F725&multiline=true&width=700&height=100&lines=This+is+MLV+PRASAD;Mentor+-+Data+Science+and+Analytics;Kaggle+Expert+%7C+M.sc+Computer+Science+(A.I+and+M.L))]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F725&multiline=true&width=700&height=100&lines=This+is+MLV+PRASAD;Mentor+-+Data+Science+and+Analytics;Kaggle+Expert+%7C+M.sc+Computer+Science+(A.I+and+M.L))]](https://readme-typing-svg.demolab.com/demo/?duration=2500&pause=30&color=1BF75C&background=FFFFFF00&multiline=true&width=800&height=100&lines=Hi%2C+This+is+MLV+Prasad;Sr.Data+Scientist+%40HDFCLife%2C+Ex-Turing%2C+Cyient%2CCoding+Invaders;Mentor+%40Scaler%2C+%40analyticsShiksha)
 
 
 

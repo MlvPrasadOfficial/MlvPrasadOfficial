@@ -4,7 +4,7 @@
 
 ⭐ Sr. Data Scientist - GEN-AI @HDFC
 
-⭐ Mentor - Data Science @SCALER, @ANALYTICS_SIKHSHA | (Ex- DS @Turing @codinginvaders , @cyient)
+⭐ Mentor - Data Science @Scaler, @analytics_shiksha | (Ex- DS @Turing @codinginvaders , @cyient)
 
 🥇 M.Sc Computer Science in **Artificial Intelligence and Machine Learning** | @Woolf University 
 
